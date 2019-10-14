@@ -1,4 +1,21 @@
 
-build Caffe2 for Android
+Build Caffe2 for Android
 ====
-* https://caffe2.ai/docs/getting-started.html?platform=android&configuration=compile
+* Infer to https://caffe2.ai/docs/getting-started.html?platform=android&configuration=compile
+
+Install android-ndk
+===
+* download android-ndk from http://developer.android.com/ndk/downloads/index.html
+* unzip android-ndk-r18b-linux-x86_64.zip
+* export ANDROID_NDK=<your-ndk-root-path>
+
+Build Ncnn
+===
+* Infer to https://github.com/Tencent/ncnn/wiki/how-to-build#build-for-android
+
+Build cv_lib
+===
+* download opencv for android https://sourceforge.net/projects/opencvlibrary/files/4.1.1/opencv-4.1.1-android-sdk.zip/download
+*  mkdir  build & cd build
+*  cmake ..
+*  make & make install
