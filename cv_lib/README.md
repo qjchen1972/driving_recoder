@@ -6,8 +6,8 @@ Build Caffe2 for Android
 Install android-ndk
 ===
 * download android-ndk from http://developer.android.com/ndk/downloads/index.html
-* unzip android-ndk-r18b-linux-x86_64.zip
-* export ANDROID_NDK=<your-ndk-root-path>
+* unzip android-ndk-r16b-linux-x86_64.zip
+* export ANDROID_NDK = <your-ndk-root-path>
 
 Build Ncnn
 ===
