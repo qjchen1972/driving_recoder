@@ -11,6 +11,6 @@ Driving recorder based on Android system, the project provides some features:
 
 * Real-time live broadcasting of AI-processed images and sounds using RTMP
 
-![](https://github.com/qjchen1972/driving_recoder/blob/master/img/rtmp.jpg)
+![](https://github.com/qjchen1972/driving_recoder/blob/master/img/rtmp.png)
 
 
