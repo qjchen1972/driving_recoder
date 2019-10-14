@@ -4,6 +4,13 @@ Driving recorder based on Android system, the project provides some features:
 
 * remote face recognition, Base on [remote-face-recognition](https://github.com/qjchen1972/remote-face-recognition)
 
-* face:
+* modify resolution of face,Base on [remote-face-recognition](https://github.com/qjchen1972/remote-face-recognition)
 
-  ![](https://github.com/qjchen1972/driving_recoder/blob/master/img/facetest1.jpg)
+![](https://github.com/qjchen1972/driving_recoder/blob/master/img/facetest1.jpg)
+
+
+* Real-time live broadcasting of AI-processed images and sounds using RTMP
+
+![](https://github.com/qjchen1972/driving_recoder/blob/master/img/rtmp.jpg)
+
+
